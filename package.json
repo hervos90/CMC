@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-player": "^2.13.0",
+    "video-react": "^0.16.0",
+    "video.js": "^8.6.1",
+    "videojs-audio-tracks": "^0.2.1"
+  }
+}
